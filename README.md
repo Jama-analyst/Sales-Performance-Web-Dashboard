@@ -18,7 +18,7 @@ NB: Before you start with converting the data, make sure that the data is clean.
    - select CSV
    - then click on Save
   NB: Your CSV File will be saved under Documents/Desktop
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
+![Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
 ## Step 2 (Prepare the Sample Data)
 - Convert the CSV File into JSON File (Data Transformation Process)
 Reason: Because JSON makes it easier to build a Web-based Dashboard
