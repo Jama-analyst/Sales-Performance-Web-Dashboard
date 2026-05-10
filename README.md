@@ -34,21 +34,52 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - click to Download
    NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
 
-Create a Web Dashboard with a Single Prompt using Claude AICreate a Web Dashboard with a Single Prompt using Claude AI
-     C
-   - then click on Convert button
-   - the JSON data will be generated on the right-side
-   - click to Download  
-Data Transformation Process
-- [X] Convert the CSV File into Json File Format
-   - Reason being Json makes it much easier to build a Web-based Dashboard
+## Step 3 (Create a Prompt using Claude AI)
+   - Open Google
+   - search for Claude AI
+   - click on the official wwbsite on the top
+   - once it's open
+   - take a snapshot of one of your old Sales Dashboard
+   - copy the snap and paste it into Claude AI
+   - then ask Claude AI to create the Prompt
+   - then press Enter
+   - within moments, Claude AI will create a Prompt
+   - once it's complete, copy and paste the Prompt in a Word Document for easier access
+   - then save it under your Desktop/Documents
 
-- [X] Marital Status
-  - The employee population is predominantly composed of married individuals:
-- Married: 45.6%
-- Single: 32.1%
-- Divorced: 22.3%
+## Step 4 (Create a Web Dashboard with a Single Prompt using Claude AI)
+   - Open Google
+   - search for Claude AI
+   - click on the official wwbsite on the top
+   - once it's open
+   - go back to your JSON converter
+   - copy the JSON data
+   - then paste it into Claude AI
+   - then simply copy the Prompt and paste it into Claude AI
+   - then press Enter
+   - within moments, Claude AI will create your HTML-based Sales Performance Web Dashboard
+   - once it's complete, download the file
+     
+  ## Step 5 (Create a Web Dashboard with a Single Prompt using Claude AI)
+   - Open the Download File
+   - Next upload the JSON file by clicking on Choose JSON File icon
+   - a screen will pop-up where you have saved your JSON File
+   - then in minutes, the Dashboard with visuals will be dispayed
 
+
+  NB:
+  # Data is clearly dispalyed up to Records
+  # Then you get four (4) useful Key Metrics, that gives you a quick Overview
+  # Just below that you get seven (7) Premium Charts, beautifully visual.
+   - once it's open
+   - go back to your JSON converter
+   - copy the JSON data
+   - then paste it into Claude AI
+   - simply copy the Prompt and paste it into Claude AI
+   - then press Enter
+   - within moments, Claude AI will create your HTML-based Sales Performance Web Dashboard
+   - once it's complete, download the file
+   
 ## Departmental Insights
 The dashboard utilizes numerical identifiers for departments (1 through 6).
 - [X] Employee Count:
