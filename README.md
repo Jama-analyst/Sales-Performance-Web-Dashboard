@@ -2,6 +2,7 @@
 
 ## A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
 NB: Before you start with converting the data, make sure that the data is clean.
+![Text] https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.xlsx
 
 ## To Create an Interactive Excel Dashbaord using Claude AI
 - [X] Prepare the Sample Data
