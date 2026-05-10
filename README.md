@@ -46,11 +46,11 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - within moments, Claude AI will create a Prompt
    - once it's complete, copy and paste the Prompt in a Word Document for easier access
    - then save it under your Desktop/Documents
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
+     
+![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/5_Prompt.docx)
+
 ## Step 4 (Create a Web Dashboard with a Single Prompt using Claude AI)
-   - Open Google
-   - search for Claude AI
-   - click on the official wwbsite on the top
+   - Open Claude AI
    - once it's open
    - go back to your JSON converter
    - copy the JSON data
