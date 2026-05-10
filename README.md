@@ -2,7 +2,7 @@
 
 ## A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
 NB: Before you start with converting the data, make sure that the data is clean.
-![Text] https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.xlsx
+[Text] (https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.xlsx)
 
 ## To Create an Interactive Excel Dashbaord using Claude AI
 - [X] Prepare the Sample Data
@@ -18,8 +18,9 @@ NB: Before you start with converting the data, make sure that the data is clean.
    - then on Change File Type
    - select CSV
    - then click on Save
-  NB: Your CSV File will be saved under Documents/Desktop
-![Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
+  NB: Ypu can save your CSV File under Documents/Desktop on PC 
+[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
+
 ## Step 2 (Prepare the Sample Data)
 - Convert the CSV File into JSON File (Data Transformation Process)
 Reason: Because JSON makes it easier to build a Web-based Dashboard
@@ -50,7 +51,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - once it's complete, copy and paste the Prompt in a Word Document for easier access
    - then save it under your Desktop/Documents
      
-![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/5_Prompt.docx)
+[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/5_Prompt.docx)
 
 ## Step 4 (Create a Web Dashboard with a Single Prompt using Claude AI)
    - Open Claude AI
