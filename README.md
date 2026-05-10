@@ -18,22 +18,22 @@ NB: Before you start with converting the data, make sure that the data is clean.
    - select CSV
    - then click on Save
   NB: Your CSV File will be saved under Documents/Desktop
-
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 ## Step 2 (Prepare the Sample Data)
 - Convert the CSV File into JSON File (Data Transformation Process)
 Reason: Because JSON makes it easier to build a Web-based Dashboard
    - Open Google
    - search for CVS to JSON converter
    - select CSV.JSON
-   - Scroll down to the bottom then click on csv to json
+   - scroll down to the bottom then click on csv to json
    - two (2) screen will be dispalyed (a CSV and a JSON)
-   - Clear the default CSV option on the left side
-   - Then upload your CSV file from Desktop/Document
+   - clear the default CSV option on the left side
+   - then upload your CSV file from Desktop/Document
    - then click on Convert button
    - the JSON data will be generated on the right-side
    - click to Download
    NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
-
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 ## Step 3 (Create a Prompt using Claude AI)
    - Open Google
    - search for Claude AI
@@ -46,7 +46,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - within moments, Claude AI will create a Prompt
    - once it's complete, copy and paste the Prompt in a Word Document for easier access
    - then save it under your Desktop/Documents
-
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 ## Step 4 (Create a Web Dashboard with a Single Prompt using Claude AI)
    - Open Google
    - search for Claude AI
@@ -62,10 +62,11 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
      
   ## Step 5 (Create a Web Dashboard with a Single Prompt using Claude AI)
    - Open the Download File
-   - Next upload the JSON file by clicking on Choose JSON File icon
+   - next upload the JSON file by clicking on Choose JSON File icon
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be dispayed
-
+     
+[Link Text] (URL)(https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html)
 
   NB:
   # Data is clearly dispalyed up to Records
