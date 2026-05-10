@@ -1,16 +1,47 @@
 # Sales-Performance-Web-Dashboard
-# HR-Summary-Dashboard
-This HR Summary Dashboard provides a high-level overview of the organization’s workforce, focusing on Demographics, Departmental Distribution, and Financial Metrics across all global operations.
 
-## Key Performance Indicators (KPIs)
-The organization maintains a workforce of 1,470 employees (1.47K) with the following averages:
-- Average Monthly Income: 6.5K
-- Average Monthly Rate: 14.3K
-- Average Job Experience: 13.92 years
+# A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
+NB: Before you start with converting the data, make sure that the data is clean.
 
-## Workforce Composition
-- [X] Gender Diversity
-   - The workforce shows a significant gender lean, with 60% identifying as Female and 40% as Male. This ratio remains relatively consistent across various departments, though the total volume of employees varies.
+## To Create an Interactive Excel Dashbaord using Claude AI
+- [X] Prepare the Sample Data
+- Download your Data into CSV File
+- Convert the CSV File into JSON File
+- [X] Create a Web Dashboard with a Single Prompt using Claude AI
+  
+## Step 1 (Prepare the Sample Data)
+- Download your Data into CSV File
+   - Open your Excel File
+   - then click on File Tab
+   - click on Export
+   - then on Change File Type
+   - select CSV
+   - then click on Save
+  NB: Your CSV File will be saved under Documents/Desktop
+
+## Step 2 (Prepare the Sample Data)
+- Convert the CSV File into JSON File (Data Transformation Process)
+Reason: Because JSON makes it easier to build a Web-based Dashboard
+   - Open Google
+   - search for CVS to JSON converter
+   - select CSV.JSON
+   - Scroll down to the bottom then click on csv to json
+   - two (2) screen will be dispalyed (a CSV and a JSON)
+   - Clear the default CSV option on the left side
+   - Then upload your CSV file from Desktop/Document
+   - then click on Convert button
+   - the JSON data will be generated on the right-side
+   - click to Download
+   NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
+
+Create a Web Dashboard with a Single Prompt using Claude AICreate a Web Dashboard with a Single Prompt using Claude AI
+     C
+   - then click on Convert button
+   - the JSON data will be generated on the right-side
+   - click to Download  
+Data Transformation Process
+- [X] Convert the CSV File into Json File Format
+   - Reason being Json makes it much easier to build a Web-based Dashboard
 
 - [X] Marital Status
   - The employee population is predominantly composed of married individuals:
