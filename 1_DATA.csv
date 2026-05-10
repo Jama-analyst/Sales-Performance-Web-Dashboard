@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Product Name,Category,Sales,Quantity, Profit 
+ORD-2024-10001,08/12/2024,09/12/2024,Same Day,CUST-1001,Ken Brennan,Consumer,United States,Houston,Texas,Central,Fellowes Laminator,Technology, $544 ,6, $67 
+ORD-2024-10002,10/06/2024,14/06/2024,Standard Class,CUST-1002,John Smith,Corporate,United States,Atlanta,Georgia,South,Pilot G2 Pen Pack,Office Supplies, $97 ,7, $1 
+ORD-2024-10003,07/02/2024,11/02/2024,Standard Class,CUST-1003,Maria Johnson,Home Office,United States,Phoenix,Arizona,West,Reception Desk,Furniture," $2,154 ",3, $254 
+ORD-2024-10004,05/03/2024,09/03/2024,Standard Class,CUST-1004,Alicia Turner,Consumer,United States,Philadelphia,Pennsylvania,East,Staples Multipurpose Paper,Office Supplies, $47 ,7, $10 
+ORD-2024-10005,07/11/2024,11/11/2024,Standard Class,CUST-1005,David Lee,Corporate,Canada,Toronto,Ontario,Canada,Canon ImageClass Printer,Technology," $1,022 ",5, $204 
+ORD-2024-10006,17/03/2024,20/03/2024,Standard Class,CUST-1006,Priya Nair,Home Office,Germany,Berlin,Berlin,EMEA,Dell 24 inch Monitor,Technology, $536 ,3, $107 
+ORD-2024-10007,12/05/2024,15/05/2024,Second Class,CUST-1007,Michael Carter,Consumer,United States,Los Angeles,California,West,Desk Organizer Tray,Office Supplies, $57 ,3, $10 
+ORD-2024-10008,23/08/2024,27/08/2024,Standard Class,CUST-1008,Susan Walker,Corporate,United States,Seattle,Washington,West,Task Office Lamp,Furniture, $128 ,3, $13 
+ORD-2024-10009,27/01/2024,02/02/2024,Standard Class,CUST-1009,Robert Hall,Consumer,United States,Boston,Massachusetts,East,Executive Leather Office Chair,Furniture, $288 ,1, $53 
+ORD-2024-10010,27/11/2024,30/11/2024,Standard Class,CUST-1010,Emily Davis,Home Office,United States,Dallas,Texas,Central,Conference Table,Furniture," $1,946 ",3, $311 
+ORD-2024-10011,26/04/2024,27/04/2024,First Class,CUST-1011,Daniel Young,Consumer,United States,Charlotte,North Carolina,South,USB-C Docking Station,Technology, $728 ,6, $134 
+ORD-2024-10012,02/05/2024,07/05/2024,Standard Class,CUST-1012,Karen White,Corporate,Canada,Vancouver,British Columbia,Canada,"Envelopes, Pack of 100",Office Supplies, $32 ,3, $9 
+ORD-2024-10013,12/03/2024,18/03/2024,Standard Class,CUST-1013,Jason Green,Consumer,Australia,Sydney,New South Wales,APAC,Logitech Wireless Mouse,Technology, $75 ,3, $15 
+ORD-2024-10014,05/02/2024,10/02/2024,Standard Class,CUST-1014,Olivia Harris,Home Office,United States,Chicago,Illinois,Central,Avery Binder Set,Office Supplies, $25 ,2, $5 
+ORD-2024-10015,10/03/2024,16/03/2024,Standard Class,CUST-1015,Brian King,Corporate,United States,Miami,Florida,South,Storage Cabinet,Furniture, $741 ,3, $69 
+ORD-2024-10016,05/08/2024,09/08/2024,Standard Class,CUST-1016,Sophia Adams,Consumer,United States,Denver,Colorado,West,Noise Cancelling Headset,Technology, $280 ,3, $71 
+ORD-2024-10017,19/06/2024,21/06/2024,First Class,CUST-1017,James Scott,Corporate,United States,San Francisco,California,West,Post-it Notes Value Pack,Office Supplies, $32 ,4, $3 
+ORD-2024-10018,01/10/2024,06/10/2024,Standard Class,CUST-1018,Linda Baker,Home Office,United States,Detroit,Michigan,Central,Adjustable Standing Desk,Furniture, $393 ,1, $71 
+ORD-2024-10019,08/12/2024,11/12/2024,Standard Class,CUST-1019,Ethan Moore,Consumer,United Kingdom,London,England,EMEA,Sharpie Permanent Markers,Office Supplies, $61 ,6, $19 
+ORD-2024-10020,15/12/2024,16/12/2024,Same Day,CUST-1020,Rachel Perez,Corporate,United States,New York,New York,East,"Bookshelf, 5-Shelf",Furniture, $488 ,3, $57 
+ORD-2024-10021,24/12/2024,30/12/2024,Standard Class,CUST-1021,Noah Reed,Consumer,United States,Houston,Texas,Central,Portable SSD 1TB,Technology, $106 ,1, $2 
+ORD-2024-10022,12/01/2024,14/01/2024,First Class,CUST-1022,Grace Campbell,Home Office,United States,Atlanta,Georgia,South,HP 63 Ink Cartridge,Technology, $43 ,1, $12 
+ORD-2024-10023,08/06/2024,12/06/2024,Standard Class,CUST-1023,Henry Foster,Corporate,United States,Phoenix,Arizona,West,Fellowes Laminator,Technology, $343 ,4, $76 
+ORD-2024-10024,13/02/2024,17/02/2024,Standard Class,CUST-1024,Chloe Bennett,Consumer,United States,Philadelphia,Pennsylvania,East,Pilot G2 Pen Pack,Office Supplies, $40 ,3, $9 
+ORD-2024-10025,02/05/2024,07/05/2024,Standard Class,CUST-1001,Ken Brennan,Consumer,Canada,Toronto,Ontario,Canada,Reception Desk,Furniture," $2,067 ",3, $149 
+ORD-2024-10026,06/03/2024,10/03/2024,Standard Class,CUST-1002,John Smith,Corporate,Germany,Berlin,Berlin,EMEA,Staples Multipurpose Paper,Office Supplies, $37 ,5, $8 
+ORD-2024-10027,24/09/2024,29/09/2024,Standard Class,CUST-1003,Maria Johnson,Home Office,United States,Los Angeles,California,West,Canon ImageClass Printer,Technology, $208 ,1, $52 
+ORD-2024-10028,06/01/2024,09/01/2024,Standard Class,CUST-1004,Alicia Turner,Consumer,United States,Seattle,Washington,West,Dell 24 inch Monitor,Technology, $189 ,1, $31 
+ORD-2024-10029,06/04/2024,10/04/2024,Standard Class,CUST-1005,David Lee,Corporate,United States,Boston,Massachusetts,East,Desk Organizer Tray,Office Supplies, $157 ,8, $3 
+ORD-2024-10030,27/07/2024,02/08/2024,Standard Class,CUST-1006,Priya Nair,Home Office,United States,Dallas,Texas,Central,Task Office Lamp,Furniture, $142 ,3, $25 
+ORD-2024-10031,15/11/2024,18/11/2024,Standard Class,CUST-1007,Michael Carter,Consumer,United States,Charlotte,North Carolina,South,Executive Leather Office Chair,Furniture, $539 ,2, $113 
+ORD-2024-10032,25/06/2024,28/06/2024,Standard Class,CUST-1008,Susan Walker,Corporate,Canada,Vancouver,British Columbia,Canada,Conference Table,Furniture," $1,948 ",3, $285 
+ORD-2024-10033,04/04/2024,09/04/2024,Standard Class,CUST-1009,Robert Hall,Consumer,Australia,Sydney,New South Wales,APAC,USB-C Docking Station,Technology, $555 ,4, $92 
+ORD-2024-10034,08/06/2024,12/06/2024,Standard Class,CUST-1010,Emily Davis,Home Office,United States,Chicago,Illinois,Central,"Envelopes, Pack of 100",Office Supplies, $11 ,1, $3 
+ORD-2024-10035,11/01/2024,16/01/2024,Standard Class,CUST-1011,Daniel Young,Consumer,United States,Miami,Florida,South,Logitech Wireless Mouse,Technology, $47 ,2, $12 
+ORD-2024-10036,12/03/2024,18/03/2024,Standard Class,CUST-1012,Karen White,Corporate,United States,Denver,Colorado,West,Avery Binder Set,Office Supplies, $119 ,9, $8 
+ORD-2024-10037,12/11/2024,14/11/2024,First Class,CUST-1013,Jason Green,Consumer,United States,San Francisco,California,West,Storage Cabinet,Furniture, $785 ,3, $115 
+ORD-2024-10038,12/03/2024,15/03/2024,Standard Class,CUST-1014,Olivia Harris,Home Office,United States,Detroit,Michigan,Central,Noise Cancelling Headset,Technology, $527 ,6, $96 
+ORD-2024-10039,13/03/2024,14/03/2024,First Class,CUST-1015,Brian King,Corporate,United Kingdom,London,England,EMEA,Post-it Notes Value Pack,Office Supplies, $48 ,6, $13 
+ORD-2024-10040,13/12/2024,19/12/2024,Standard Class,CUST-1016,Sophia Adams,Consumer,United States,New York,New York,East,Adjustable Standing Desk,Furniture," $1,299 ",3, $233 
+ORD-2024-10041,13/07/2024,14/07/2024,Same Day,CUST-1017,James Scott,Corporate,United States,Houston,Texas,Central,Sharpie Permanent Markers,Office Supplies, $42 ,4, $10 
+ORD-2024-10042,13/11/2024,15/11/2024,Second Class,CUST-1018,Linda Baker,Home Office,United States,Atlanta,Georgia,South,"Bookshelf, 5-Shelf",Furniture, $489 ,3, $12 
+ORD-2024-10043,13/02/2024,15/02/2024,First Class,CUST-1019,Ethan Moore,Consumer,United States,Phoenix,Arizona,West,Portable SSD 1TB,Technology, $619 ,6, $145 
+ORD-2024-10044,12/04/2024,15/04/2024,Standard Class,CUST-1020,Rachel Perez,Corporate,United States,Philadelphia,Pennsylvania,East,HP 63 Ink Cartridge,Technology, $41 ,1, $8 
+ORD-2024-10045,09/05/2024,12/05/2024,Second Class,CUST-1021,Noah Reed,Consumer,Canada,Toronto,Ontario,Canada,Fellowes Laminator,Technology, $80 ,1, $-1 
+ORD-2024-10046,05/06/2024,11/06/2024,Standard Class,CUST-1022,Grace Campbell,Home Office,Germany,Berlin,Berlin,EMEA,Pilot G2 Pen Pack,Office Supplies, $115 ,8, $35 
+ORD-2024-10047,25/06/2024,01/07/2024,Standard Class,CUST-1023,Henry Foster,Corporate,United States,Los Angeles,California,West,Reception Desk,Furniture," $2,199 ",3, $291 
+ORD-2024-10048,14/06/2024,16/06/2024,Second Class,CUST-1024,Chloe Bennett,Consumer,United States,Seattle,Washington,West,Staples Multipurpose Paper,Office Supplies, $20 ,3, $4 
+ORD-2024-10049,25/06/2024,01/07/2024,Standard Class,CUST-1001,Ken Brennan,Consumer,United States,Boston,Massachusetts,East,Canon ImageClass Printer,Technology, $213 ,1, $46 
+ORD-2024-10050,03/06/2024,08/06/2024,Standard Class,CUST-1002,John Smith,Corporate,United States,Dallas,Texas,Central,Dell 24 inch Monitor,Technology, $755 ,4, $92 
+ORD-2025-10051,27/06/2025,28/06/2025,Same Day,CUST-1003,Maria Johnson,Home Office,United States,Charlotte,North Carolina,South,Desk Organizer Tray,Office Supplies, $172 ,9, $26 
+ORD-2025-10052,16/06/2025,22/06/2025,Standard Class,CUST-1004,Alicia Turner,Consumer,Canada,Vancouver,British Columbia,Canada,Task Office Lamp,Furniture, $134 ,3, $29 
+ORD-2025-10053,22/06/2025,28/06/2025,Standard Class,CUST-1005,David Lee,Corporate,Australia,Sydney,New South Wales,APAC,Executive Leather Office Chair,Furniture, $291 ,1, $55 
+ORD-2025-10054,15/05/2025,18/05/2025,Standard Class,CUST-1006,Priya Nair,Home Office,United States,Chicago,Illinois,Central,Conference Table,Furniture," $1,731 ",3, $232 
+ORD-2025-10055,21/04/2025,24/04/2025,Second Class,CUST-1007,Michael Carter,Consumer,United States,Miami,Florida,South,USB-C Docking Station,Technology, $239 ,2, $59 
+ORD-2025-10056,12/02/2025,17/02/2025,Standard Class,CUST-1008,Susan Walker,Corporate,United States,Denver,Colorado,West,"Envelopes, Pack of 100",Office Supplies, $49 ,4, $13 
+ORD-2025-10057,12/11/2025,14/11/2025,Second Class,CUST-1009,Robert Hall,Consumer,United States,San Francisco,California,West,Logitech Wireless Mouse,Technology, $105 ,4, $25 
+ORD-2025-10058,18/06/2025,22/06/2025,Standard Class,CUST-1010,Emily Davis,Home Office,United States,Detroit,Michigan,Central,Avery Binder Set,Office Supplies, $50 ,4, $13 
+ORD-2025-10059,02/11/2025,05/11/2025,Standard Class,CUST-1011,Daniel Young,Consumer,United Kingdom,London,England,EMEA,Storage Cabinet,Furniture, $745 ,3, $74 
+ORD-2025-10060,15/01/2025,17/01/2025,First Class,CUST-1012,Karen White,Corporate,United States,New York,New York,East,Noise Cancelling Headset,Technology, $506 ,6, $113 
+ORD-2025-10061,27/12/2025,02/01/2026,Standard Class,CUST-1013,Jason Green,Consumer,United States,Houston,Texas,Central,Post-it Notes Value Pack,Office Supplies, $40 ,5, $8 
+ORD-2025-10062,10/08/2025,16/08/2025,Standard Class,CUST-1014,Olivia Harris,Home Office,United States,Atlanta,Georgia,South,Adjustable Standing Desk,Furniture, $915 ,2, $104 
+ORD-2025-10063,13/10/2025,16/10/2025,Standard Class,CUST-1015,Brian King,Corporate,United States,Phoenix,Arizona,West,Sharpie Permanent Markers,Office Supplies, $42 ,4, $12 
+ORD-2025-10064,08/07/2025,13/07/2025,Standard Class,CUST-1016,Sophia Adams,Consumer,United States,Philadelphia,Pennsylvania,East,"Bookshelf, 5-Shelf",Furniture, $156 ,1, $16 
+ORD-2025-10065,19/10/2025,22/10/2025,Standard Class,CUST-1017,James Scott,Corporate,Canada,Toronto,Ontario,Canada,Portable SSD 1TB,Technology, $117 ,1, $27 
+ORD-2025-10066,14/06/2025,16/06/2025,First Class,CUST-1018,Linda Baker,Home Office,Germany,Berlin,Berlin,EMEA,HP 63 Ink Cartridge,Technology, $250 ,6, $59 
+ORD-2025-10067,18/05/2025,23/05/2025,Standard Class,CUST-1019,Ethan Moore,Consumer,United States,Los Angeles,California,West,Fellowes Laminator,Technology, $392 ,5, $73 
+ORD-2025-10068,01/08/2025,04/08/2025,Standard Class,CUST-1020,Rachel Perez,Corporate,United States,Seattle,Washington,West,Pilot G2 Pen Pack,Office Supplies, $43 ,3, $11 
+ORD-2025-10069,14/01/2025,17/01/2025,Second Class,CUST-1021,Noah Reed,Consumer,United States,Boston,Massachusetts,East,Reception Desk,Furniture," $2,036 ",3, $233 
+ORD-2025-10070,25/07/2025,27/07/2025,First Class,CUST-1022,Grace Campbell,Home Office,United States,Dallas,Texas,Central,Staples Multipurpose Paper,Office Supplies, $14 ,2, $3 
+ORD-2025-10071,04/12/2025,09/12/2025,Standard Class,CUST-1023,Henry Foster,Corporate,United States,Charlotte,North Carolina,South,Canon ImageClass Printer,Technology, $186 ,1, $27 
+ORD-2025-10072,02/05/2025,03/05/2025,Same Day,CUST-1024,Chloe Bennett,Consumer,Canada,Vancouver,British Columbia,Canada,Dell 24 inch Monitor,Technology," $1,021 ",6, $130 
+ORD-2025-10073,15/06/2025,18/06/2025,Second Class,CUST-1001,Ken Brennan,Consumer,Australia,Sydney,New South Wales,APAC,Desk Organizer Tray,Office Supplies, $118 ,6, $25 
+ORD-2025-10074,12/04/2025,15/04/2025,Standard Class,CUST-1002,John Smith,Corporate,United States,Chicago,Illinois,Central,Task Office Lamp,Furniture, $129 ,3, $24 
+ORD-2025-10075,15/09/2025,18/09/2025,Standard Class,CUST-1003,Maria Johnson,Home Office,United States,Miami,Florida,South,Executive Leather Office Chair,Furniture, $888 ,3, $178 
+ORD-2025-10076,22/06/2025,24/06/2025,First Class,CUST-1004,Alicia Turner,Consumer,United States,Denver,Colorado,West,Conference Table,Furniture," $1,823 ",3, $185 
+ORD-2025-10077,01/08/2025,04/08/2025,Second Class,CUST-1005,David Lee,Corporate,United States,San Francisco,California,West,USB-C Docking Station,Technology, $128 ,1, $-8 
+ORD-2025-10078,01/01/2025,02/01/2025,First Class,CUST-1006,Priya Nair,Home Office,United States,Detroit,Michigan,Central,"Envelopes, Pack of 100",Office Supplies, $46 ,4, $2 
+ORD-2025-10079,19/06/2025,21/06/2025,First Class,CUST-1007,Michael Carter,Consumer,United Kingdom,London,England,EMEA,Logitech Wireless Mouse,Technology, $25 ,1, $3 
+ORD-2025-10080,23/11/2025,26/11/2025,Second Class,CUST-1008,Susan Walker,Corporate,United States,New York,New York,East,Avery Binder Set,Office Supplies, $62 ,5, $7 
+ORD-2025-10081,09/02/2025,12/02/2025,Standard Class,CUST-1009,Robert Hall,Consumer,United States,Houston,Texas,Central,Storage Cabinet,Furniture, $226 ,1, $8 
+ORD-2025-10082,27/01/2025,28/01/2025,First Class,CUST-1010,Emily Davis,Home Office,United States,Atlanta,Georgia,South,Noise Cancelling Headset,Technology, $174 ,2, $19 
+ORD-2025-10083,17/07/2025,18/07/2025,Same Day,CUST-1011,Daniel Young,Consumer,United States,Phoenix,Arizona,West,Post-it Notes Value Pack,Office Supplies, $50 ,6, $3 
+ORD-2025-10084,03/05/2025,08/05/2025,Standard Class,CUST-1012,Karen White,Corporate,United States,Philadelphia,Pennsylvania,East,Adjustable Standing Desk,Furniture, $450 ,1, $40 
+ORD-2025-10085,07/07/2025,13/07/2025,Standard Class,CUST-1013,Jason Green,Consumer,Canada,Toronto,Ontario,Canada,Sharpie Permanent Markers,Office Supplies, $41 ,4, $9 
+ORD-2025-10086,23/10/2025,26/10/2025,Second Class,CUST-1014,Olivia Harris,Home Office,Germany,Berlin,Berlin,EMEA,"Bookshelf, 5-Shelf",Furniture, $445 ,3, $43 
+ORD-2025-10087,22/01/2025,24/01/2025,First Class,CUST-1015,Brian King,Corporate,United States,Los Angeles,California,West,Portable SSD 1TB,Technology, $302 ,3, $53 
+ORD-2025-10088,23/01/2025,28/01/2025,Standard Class,CUST-1016,Sophia Adams,Consumer,United States,Seattle,Washington,West,HP 63 Ink Cartridge,Technology, $111 ,3, $32 
+ORD-2025-10089,24/09/2025,27/09/2025,Standard Class,CUST-1017,James Scott,Corporate,United States,Boston,Massachusetts,East,Fellowes Laminator,Technology, $247 ,3, $55 
+ORD-2025-10090,19/11/2025,22/11/2025,Second Class,CUST-1018,Linda Baker,Home Office,United States,Dallas,Texas,Central,Pilot G2 Pen Pack,Office Supplies, $45 ,3, $14 
+ORD-2025-10091,03/04/2025,04/04/2025,Same Day,CUST-1019,Ethan Moore,Consumer,United States,Charlotte,North Carolina,South,Reception Desk,Furniture, $723 ,1, $93 
+ORD-2025-10092,25/12/2025,27/12/2025,First Class,CUST-1020,Rachel Perez,Corporate,Canada,Vancouver,British Columbia,Canada,Staples Multipurpose Paper,Office Supplies, $20 ,3, $5 
+ORD-2025-10093,27/08/2025,02/09/2025,Standard Class,CUST-1021,Noah Reed,Consumer,Australia,Sydney,New South Wales,APAC,Canon ImageClass Printer,Technology, $565 ,3, $146 
+ORD-2025-10094,03/02/2025,05/02/2025,Second Class,CUST-1022,Grace Campbell,Home Office,United States,Chicago,Illinois,Central,Dell 24 inch Monitor,Technology," $1,002 ",6, $128 
+ORD-2025-10095,02/03/2025,07/03/2025,Standard Class,CUST-1023,Henry Foster,Corporate,United States,Miami,Florida,South,Desk Organizer Tray,Office Supplies, $103 ,6, $20 
+ORD-2025-10096,21/11/2025,24/11/2025,Second Class,CUST-1024,Chloe Bennett,Consumer,United States,Denver,Colorado,West,Task Office Lamp,Furniture, $85 ,2, $14 
+ORD-2025-10097,25/10/2025,28/10/2025,Second Class,CUST-1001,Ken Brennan,Consumer,United States,San Francisco,California,West,Executive Leather Office Chair,Furniture, $312 ,1, $67 
+ORD-2025-10098,12/11/2025,16/11/2025,Standard Class,CUST-1002,John Smith,Corporate,United States,Detroit,Michigan,Central,Conference Table,Furniture, $657 ,1, $18 
+ORD-2025-10099,02/11/2025,03/11/2025,First Class,CUST-1003,Maria Johnson,Home Office,United Kingdom,London,England,EMEA,USB-C Docking Station,Technology, $416 ,3, $83 
+ORD-2025-10100,17/09/2025,19/09/2025,First Class,CUST-1004,Alicia Turner,Consumer,United States,New York,New York,East,"Envelopes, Pack of 100",Office Supplies, $73 ,6, $19 
