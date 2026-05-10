@@ -72,7 +72,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be dispayed
      
-[Link Text] ([https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html])
+[Link Text]([https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html])
 
 ## The Key Takeaways here:
  -  [X] Data is clearly dispalyed up to Records
