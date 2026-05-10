@@ -36,8 +36,8 @@ The "Factors Affecting Job Experience" radar chart indicates multiple data point
 - [X] Family Status: Nearly half the workforce is married, which may influence company benefit preferences (e.g. healthcare, parental leave).
 - The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
 
-## HR Summary Dashboard
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard.png)
+## SalesDashboard
+(https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html)
 
 ## Tech Stacks
 - [X] IBM Cognos Analytics Tool
