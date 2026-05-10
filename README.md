@@ -2,6 +2,7 @@
 
 ## A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
 NB: Before you start with converting the data, make sure that the data is clean.
+
 [Text] (https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.xlsx)
 
 ## To Create an Interactive Excel Dashbaord using Claude AI
@@ -18,7 +19,8 @@ NB: Before you start with converting the data, make sure that the data is clean.
    - then on Change File Type
    - select CSV
    - then click on Save
-  NB: Ypu can save your CSV File under Documents/Desktop on PC 
+  NB: Ypu can save your CSV File under Documents/Desktop on PC
+
 [Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
 
 ## Step 2 (Prepare the Sample Data)
@@ -34,7 +36,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - then click on Convert button
    - the JSON data will be generated on the right-side
    - click to Download
-   NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
+   - NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
 
 [Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/csvjson.json)
 
@@ -72,10 +74,15 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
      
 [Link Text] ([https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html])
 
-  # Data is clearly dispalyed up to Records
-  # Then you get four (4) useful Key Metrics, that gives you a quick Overview
-  # Just below that you get seven (7) Premium Charts, beautifully visual.
- 
+## The Key Takeaways here:
+ -  [X] Data is clearly dispalyed up to Records
+ -  [X] Then you get four (4) useful Key Metrics, that gives you a quick Overview
+ -  [X] Just below that you get seven (7) Premium Charts, beautifully visual.
+
+ ## Tools used:
+ - Excel
+ - JSON Converter
+ - Claude AI 
 
 
 
