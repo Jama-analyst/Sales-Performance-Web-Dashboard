@@ -1,6 +1,6 @@
 # Sales-Performance-Web-Dashboard
 
-# A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
+## A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
 NB: Before you start with converting the data, make sure that the data is clean.
 
 ## To Create an Interactive Excel Dashbaord using Claude AI
@@ -33,7 +33,9 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - the JSON data will be generated on the right-side
    - click to Download
    NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
+
+[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/csvjson.json)
+
 ## Step 3 (Create a Prompt using Claude AI)
    - Open Google
    - search for Claude AI
