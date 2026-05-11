@@ -74,6 +74,11 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
      
 [sales_dashboard.html]([https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html])
 
+<p align="center">
+  <img scr="dashboard-preview.png"
+alt="Sales Dashboard" width=""180>
+</p>
+
 ## The Key Takeaways here:
  -  [X] Data is clearly dispalyed up to Records
  -  [X] Then you get four (4) useful Key Metrics, that gives you a quick Overview
