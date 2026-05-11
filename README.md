@@ -19,7 +19,7 @@ NB: Before you start with converting the data, make sure that the data is clean.
    - then on Change File Type
    - select CSV
    - then click on Save
-  NB: Ypu can save your CSV File under Documents/Desktop on PC
+  NB: You can save your CSV File under Documents/Desktop on PC
 
 [Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
 
@@ -32,7 +32,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - scroll down to the bottom then click on csv to json
    - two (2) screen will be dispalyed (a CSV and a JSON)
    - clear the default CSV option on the left side
-   - then upload your CSV file from Desktop/Document
+   - then upload your CSV file saved from Desktop/Documents
    - then click on Convert button
    - the JSON data will be generated on the right-side
    - click to Download
@@ -67,7 +67,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - once it's complete, download the file
      
   ## Step 5 (Create a Web Dashboard with a Single Prompt using Claude AI)
-   - Open the Download File
+   - Open the downloaded File
    - next upload the JSON file by clicking on Choose JSON File icon
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be dispayed
@@ -79,10 +79,10 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
  -  [X] Then you get four (4) useful Key Metrics, that gives you a quick Overview
  -  [X] Just below that you get seven (7) Premium Charts, beautifully visual.
 
- ## Tools used:
+ ## Tools & Tech Stack:
  - Excel
  - JSON Converter
- - Claude AI 
+ - Claude AI (Anthropic)
 
 
 
