@@ -71,11 +71,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - next upload the JSON file by clicking on Choose JSON File icon
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be dispayed
-     
-<p align="center">
-  <img scr="dashboard-preview.png"
-alt="Sales Dashboard" width="800">
-</p>
+ ## https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html           
 
 ## The Key Takeaways here:
  -  [X] Data is clearly dispalyed up to Records
