@@ -72,8 +72,6 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be dispayed
      
-[sales_dashboard.html]([https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html])
-
 <p align="center">
   <img scr="dashboard-preview.png"
 alt="Sales Dashboard" width=""180>
