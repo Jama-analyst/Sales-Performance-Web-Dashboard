@@ -74,7 +74,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
      
 <p align="center">
   <img scr="dashboard-preview.png"
-alt="Sales Dashboard" width="180">
+alt="Sales Dashboard" width="800">
 </p>
 
 ## The Key Takeaways here:
