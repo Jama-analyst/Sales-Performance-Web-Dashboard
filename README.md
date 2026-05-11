@@ -79,7 +79,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
  -  [X] Then you get four (4) useful Key Metrics, that gives you a quick Overview
  -  [X] Just below that you get seven (7) Premium Charts, beautifully visual.
 
- 🛠️ Technical Stack:
+## 🛠️ Technical Stack:
 - Data Source: Microsoft Excel / CSV
 - Data Format: JSON
 - Frontend: HTML5, Tailwind CSS (or CSS3), and JavaScript
