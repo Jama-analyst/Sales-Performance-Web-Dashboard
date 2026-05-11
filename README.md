@@ -1,4 +1,5 @@
 # Sales-Performance-Web-Dashboard
+A dynamic, responsive web dashboard built by transforming static Excel data into an interactive visual interface. This project demonstrates the full data pipeline from spreadsheet management to web-based business intelligence.
 
 ## A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
 NB: Before you start with converting the data, make sure that the data is clean.
@@ -78,10 +79,11 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
  -  [X] Then you get four (4) useful Key Metrics, that gives you a quick Overview
  -  [X] Just below that you get seven (7) Premium Charts, beautifully visual.
 
- ## Tools & Tech Stack:
- - Excel
- - JSON Converter
- - Claude AI (Anthropic)
+ 🛠️ Technical Stack:
+- Data Source: Microsoft Excel / CSV
+- Data Format: JSON
+- Frontend: HTML5, Tailwind CSS (or CSS3), and JavaScript
+- Logic: Powered by Claude AI for rapid component prototyping and data mapping.
 
 
 
