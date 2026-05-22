@@ -87,8 +87,25 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
 - Data Format: JSON
 - Frontend: HTML5, Tailwind CSS (or CSS3), and JavaScript
 - Logic: Powered by Claude AI for rapid component prototyping and data mapping.
-
-
-
+  
+## 🛠️ Skills Obtained:
+1. AI-Assisted Software Engineering (The Modern Dev Workflow)
+- Agentic AI Orchestration: I learned how to direct an AI tool to write, debug, and refactor code directly inside a local codebase, drastically speeding up component prototyping.
+- Context Management: You mastered how to feed raw data schemas (Excel/CSV structures) into an AI tool to generate accurate data mapping without breaking the existing application structure.
+  
+2. Data Engineering & Pipeline Development
+I moved away from static reporting and stepped into automated data delivery.
+- ETL (Extract, Transform, Load): I built a pipeline that extracts data from traditional flat files (Excel/CSV), transforms it (cleaning, filtering, aggregating), and loads it into a web-ready format.
+- Data Serialization (JSON): I gained hands-on experience structuring hierarchical data in JSON, the universal language of web applications, to represent key sales metrics like revenue, time-series data, and units sold.
+  
+3. Frontend Web Development & Data Visualization
+I transitioned from a standard Business Intelligence (BI) tool mindset to a full web developer mindset.
+- Dynamic Component Architecture: I have learned how web interfaces consume live data objects rather than static tables to populate UI elements.
+- Web-Based Dashboard Design: You gained experience designing interactive charts, KPIs, and filtering mechanisms that respond dynamically to data updates.
+  
+4. Technical Project Management & Version Control
+Building a web app requires a level of rigor that simple spreadsheets don't.
+- Advanced GitHub Repository Management: I managed a complex codebase, handling various asset types (source code, data files, documentation).
+- Technical Documentation: By figuring out how to embed dashboard elements or mockups via Markdown (README.md), I've learned how to arti
 
 
