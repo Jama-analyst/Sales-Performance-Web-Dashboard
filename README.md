@@ -106,6 +106,6 @@ I transitioned from a standard Business Intelligence (BI) tool mindset to a full
 4. Technical Project Management & Version Control
 Building a web app requires a level of rigor that simple spreadsheets don't.
 - Advanced GitHub Repository Management: I managed a complex codebase, handling various asset types (source code, data files, documentation).
-- Technical Documentation: By figuring out how to embed dashboard elements or mockups via Markdown (README.md), I've learned how to arti
+- Technical Documentation: By figuring out how to embed dashboard elements or mockups via Markdown (README.md), I've learned how to articulate a technical project's value proposition to stakeholders or recruiters.
 
 
