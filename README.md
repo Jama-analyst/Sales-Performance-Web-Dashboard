@@ -1,10 +1,26 @@
 # Sales-Performance-Web-Dashboard
-A dynamic, responsive web dashboard built by transforming static Excel data into an interactive visual interface. This project demonstrates the full data pipeline from spreadsheet management to web-based business intelligence.
+## Technology Stack: 
+- Claude Code (CLI), 
+- Claude AI,
+- JSON Data Pipelines,
+-  GitHub,
+-  Markdown
 
-## A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
-NB: Before you start with converting the data, make sure that the data is clean.
+## Project Overview
+Engineered an end-to-end web application that converts traditional, static Excel and CSV spreadsheets into a dynamic, interactive web visual interface tracking live metrics like revenue and units sold.
 
-[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.xlsx)
+## Core Competencies & Skills Obtained
+- [X] AI-Assisted Software Engineering:
+- Orchestrated command-line AI agents (Claude Code) and prompt engineering frameworks (Claude AI) to rapidly prototype UI components, manage local codebases, and debug system errors.
+- [X] ETL Pipeline Development:
+- Designed a data pipeline that extracts data from flat files, executes necessary transformations, and serializes the output into structured JSON objects for frontend web consumption.
+- [X] Code Auditing & Integration:
+- Acted as Lead Code Reviewer, manually auditing AI-generated components and incrementally merging them into the main repository branch without breaking core application architecture.
+
+# Sales-Performance-Web-Dashboard
+- A dynamic, responsive web dashboard built by transforming static Excel data into an interactive visual interface. This project demonstrates the full data pipeline from spreadsheet management to web-based business intelligence.  
+- A detailed demonstration how to convert Excel Data into a Dynamic Web Dashboard using Claude AI
+- NB: Before you start with converting the data, make sure that the data is clean.
 
 ## To Create an Interactive Excel Dashbaord using Claude AI
 - [X] Prepare the Sample Data
@@ -20,7 +36,7 @@ NB: Before you start with converting the data, make sure that the data is clean.
    - then on Change File Type
    - select CSV
    - then click on Save
-  NB: You can save your CSV File under Documents/Desktop on PC
+   - NB: You can save your CSV File under Documents/Desktop on PC
 
 [Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
 
