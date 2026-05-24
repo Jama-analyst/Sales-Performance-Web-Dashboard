@@ -1,13 +1,14 @@
 # Sales-Performance-Web-Dashboard
+
+## Project Overview
+Engineered an end-to-end web application that converts traditional, static Excel and CSV spreadsheets into a dynamic, interactive web visual interface tracking live metrics like revenue and units sold.
+
 ## Technology Stack: 
 - Claude Code (CLI), 
 - Claude AI,
 - JSON Data Pipelines,
 -  GitHub,
 -  Markdown
-
-## Project Overview
-Engineered an end-to-end web application that converts traditional, static Excel and CSV spreadsheets into a dynamic, interactive web visual interface tracking live metrics like revenue and units sold.
 
 ## Core Competencies & Skills Obtained
 - [X] AI-Assisted Software Engineering:
