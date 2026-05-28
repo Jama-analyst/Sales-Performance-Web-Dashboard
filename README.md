@@ -39,7 +39,7 @@ Engineered an end-to-end web application that converts traditional, static Excel
    - then click on Save
    - NB: You can save your CSV File under Documents/Desktop on PC
 
-[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
+[DATA.csv](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/1_DATA.csv)
 
 ## Step 2 (Prepare the Sample Data)
 - Convert the CSV File into JSON File (Data Transformation Process)
@@ -56,7 +56,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - click to Download
    - NB: Your can save the downloaded JSON file in your Document/Desktop for easier access
 
-[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/csvjson.json)
+[csvjson.json](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/csvjson.json)
 
 ## Step 3 (Create a Prompt using Claude AI)
    - Open Google
@@ -71,7 +71,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - once it's complete, copy and paste the Prompt in a Word Document for easier access
    - then save it under your Desktop/Documents
      
-[Text](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/5_Prompt.docx)
+[5_Prompt.docx](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/5_Prompt.docx)
 
 ## Step 4 (Create a Web Dashboard with a Single Prompt using Claude AI)
    - Open Claude AI
@@ -90,7 +90,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be displayed
      
- https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html      
+ [sales_dashboard.html](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html)     
  
 ![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
 
