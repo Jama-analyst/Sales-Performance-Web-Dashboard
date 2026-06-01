@@ -91,7 +91,7 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - then in minutes, the Dashboard with visuals will be displayed
      
  [sales_dashboard.html](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html)     
- 
+ file:///C:/Users/jamah/Downloads/sales_dashboard.html 
 ![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
 
 ## The Key Takeaways here:
