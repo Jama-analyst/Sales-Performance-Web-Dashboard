@@ -90,7 +90,8 @@ Reason: Because JSON makes it easier to build a Web-based Dashboard
    - a screen will pop-up where you have saved your JSON File
    - then in minutes, the Dashboard with visuals will be displayed
      
- [sales_dashboard.html](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html)     
+ [sales_dashboard.html](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/sales_dashboard.html)  
+ https://sites.google.com/view/jama-analyst/dash
  file:///C:/Users/jamah/Downloads/sales_dashboard.html 
 ![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
 
