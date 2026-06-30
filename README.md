@@ -117,9 +117,9 @@ I moved away from static reporting and stepped into automated data delivery.
 - Data Serialization (JSON): I gained hands-on experience structuring hierarchical data in JSON, the universal language of web applications, to represent key sales metrics like revenue, time-series data, and units sold.
   
 3. Frontend Web Development & Data Visualization
-I transitioned from a standard Business Intelligence (BI) tool mindset to a full web developer mindset.
+I transitioned from a standard Business Intelligence (BI) tool mindset to a full Web Developer mindset.
 - Dynamic Component Architecture: I have learned how web interfaces consume live data objects rather than static tables to populate UI elements.
-- Web-Based Dashboard Design: You gained experience designing interactive charts, KPIs, and filtering mechanisms that respond dynamically to data updates.
+- Web-Based Dashboard Design: I gained experience designing interactive charts, KPIs, and filtering mechanisms that respond dynamically to data updates.
   
 4. Technical Project Management & Version Control
 Building a web app requires a level of rigor that simple spreadsheets don't.
